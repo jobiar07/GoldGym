@@ -2,14 +2,6 @@
 
 GoldGym is a front-end web application developed using React that allows users to browse a wide variety of exercises and create custom workouts. The application features an intuitive interface, informative exercise cards, and integration with YouTube for tutorial videos, making it a perfect tool for fitness enthusiasts.
 
-## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 - Browse a comprehensive database of exercises from the Exercise DB API.
 - Build custom workouts by selecting exercises based on target muscles, equipment, and more.
@@ -29,16 +21,22 @@ To get a local copy up and running, follow these steps:
    ```bash
    git clone https://github.com/jobiar07/GoldGym.git
 2. Navigate to the project directory:
+   ```bash
    cd GoldGym
    
-3. Install the required dependencies:
+4. Install the required dependencies:
+   ```bash
    npm install
    
-4. Create a .env file in the root directory and add your API keys:
+6. Create a .env file in the root directory and add your API keys:
+   ```bash
    REACT_APP_EXERCISE_DB_API_KEY=your_api_key
    REACT_APP_YOUTUBE_API_KEY=your_api_key
-5. Start the application:
+   
+8. Start the application:
+   ```bash
    npm start
+   
 Usage
 -Once the application is running, you can:
 -Search for exercises using the search bar.
