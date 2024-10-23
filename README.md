@@ -36,11 +36,12 @@ To get a local copy up and running, follow these steps:
 8. Start the application:
    ```bash
    npm start
-   
-##Usage
--Once the application is running, you can:
--Search for exercises using the search bar.
--Click on an exercise card to view more information and watch tutorial videos.
--Build and save custom workouts based on your preferences.
+
+## Usage
+- Once the application is running, you can:
+- Search for exercises using the search bar.
+- Click on an exercise card to view more information and watch tutorial videos.
+- Build and save custom workouts based on your preferences.
+
 
 
