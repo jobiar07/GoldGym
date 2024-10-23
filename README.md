@@ -37,7 +37,7 @@ To get a local copy up and running, follow these steps:
    ```bash
    npm start
    
-Usage
+##Usage
 -Once the application is running, you can:
 -Search for exercises using the search bar.
 -Click on an exercise card to view more information and watch tutorial videos.
